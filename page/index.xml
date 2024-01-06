@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 前墅</title>
+        <link>https://qs.whycue.com/page/</link>
+        <description>Recent content in Pages on 前墅</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Mr.Black</copyright>
+        <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qs.whycue.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于</title>
+        <link>https://qs.whycue.com/about/</link>
+        <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://qs.whycue.com/about/</guid>
+        <description>&lt;p&gt;你好～&lt;/p&gt;
+&lt;p&gt;有空的话，请帮我，
+找一个叫“阿谊”的人。&lt;/p&gt;
+&lt;p&gt;欢迎你，下次光临。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>时间轴</title>
+        <link>https://qs.whycue.com/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://qs.whycue.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://qs.whycue.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://qs.whycue.com/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
